@@ -1,0 +1,12 @@
+{
+  "hardCandy": {
+    "name": "Bon Bons",
+    "price": "$2.99"
+  },
+
+  "softCandy": {
+    "name": "JellyBeans",
+    "price": "$1.99"
+  }
+
+}
